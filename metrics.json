@@ -1,0 +1,7 @@
+{
+  "mae_minutes": 4.99,
+  "r2_score": 0.9806,
+  "cv_r2_mean": 0.9833,
+  "cv_r2_std": 0.003,
+  "n_samples": 600
+}
