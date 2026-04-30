@@ -160,8 +160,7 @@ Health check.
 ## 👤 Author
 
 **Hamad Ibrahim Alhammadi**  
-Competitive Triathlete · iOS Design Challenge Winner (Sandooq Al Watan, 2024)  
-Abu Dhabi, UAE
+a triathlete
 
 ---
 
